@@ -5,10 +5,10 @@ int main() {
    float a;
    float b;
    
-   printf("Enter your Floating valu a :");
+   printf("Enter your Floating value a :");
    scanf("%f",&a);
    
-   printf("Enter your Floating valu b :");
+   printf("Enter your Floating value b :");
    scanf("%f",&b);
 
    float Sum = a + b;
