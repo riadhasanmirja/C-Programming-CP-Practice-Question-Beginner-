@@ -4,7 +4,7 @@ int main() {
    
    int a;
    
-   printf("Enter your integer valu :");
+   printf("Enter your integer value :");
    scanf("%d",&a);
 
     return 0;
