@@ -5,10 +5,10 @@ int main() {
    int a;
    int b;
    
-   printf("Enter your integer valu a :");
+   printf("Enter your integer value a :");
    scanf("%d",&a);
    
-   printf("Enter your integer valu b :");
+   printf("Enter your integer value b :");
    scanf("%d",&b);
 
    int Sum = a + b;
